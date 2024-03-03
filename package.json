@@ -1,5 +1,5 @@
 {
-  "name": "device-id",
+  "name": "e-id",
   "version": "0.0.1",
   "description": "Get the current device ID (fingerprint)",
   "main": "device-id.js",
